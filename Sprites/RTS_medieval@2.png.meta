@@ -1,0 +1,2515 @@
+fileFormatVersion: 2
+guid: 413511e5cf5fef848894f0fe45e66485
+timeCreated: 1479374950
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: RTS_medieval@2_0
+    21300002: RTS_medieval@2_1
+    21300004: RTS_medieval@2_2
+    21300006: RTS_medieval@2_3
+    21300008: RTS_medieval@2_4
+    21300010: RTS_medieval@2_5
+    21300012: RTS_medieval@2_6
+    21300014: RTS_medieval@2_7
+    21300016: RTS_medieval@2_8
+    21300018: RTS_medieval@2_9
+    21300020: RTS_medieval@2_10
+    21300022: RTS_medieval@2_11
+    21300024: RTS_medieval@2_12
+    21300026: RTS_medieval@2_13
+    21300028: RTS_medieval@2_14
+    21300030: RTS_medieval@2_15
+    21300032: RTS_medieval@2_16
+    21300034: RTS_medieval@2_17
+    21300036: RTS_medieval@2_18
+    21300038: RTS_medieval@2_19
+    21300040: RTS_medieval@2_20
+    21300042: RTS_medieval@2_21
+    21300044: RTS_medieval@2_22
+    21300046: RTS_medieval@2_23
+    21300048: RTS_medieval@2_24
+    21300050: RTS_medieval@2_25
+    21300052: RTS_medieval@2_26
+    21300054: RTS_medieval@2_27
+    21300056: RTS_medieval@2_28
+    21300058: RTS_medieval@2_29
+    21300060: RTS_medieval@2_30
+    21300062: RTS_medieval@2_31
+    21300064: RTS_medieval@2_32
+    21300066: RTS_medieval@2_33
+    21300068: RTS_medieval@2_34
+    21300070: RTS_medieval@2_35
+    21300072: RTS_medieval@2_36
+    21300074: RTS_medieval@2_37
+    21300076: RTS_medieval@2_38
+    21300078: RTS_medieval@2_39
+    21300080: RTS_medieval@2_40
+    21300082: RTS_medieval@2_41
+    21300084: RTS_medieval@2_42
+    21300086: RTS_medieval@2_43
+    21300088: RTS_medieval@2_44
+    21300090: RTS_medieval@2_45
+    21300092: RTS_medieval@2_46
+    21300094: RTS_medieval@2_47
+    21300096: RTS_medieval@2_48
+    21300098: RTS_medieval@2_49
+    21300100: RTS_medieval@2_50
+    21300102: RTS_medieval@2_51
+    21300104: RTS_medieval@2_52
+    21300106: RTS_medieval@2_53
+    21300108: RTS_medieval@2_54
+    21300110: RTS_medieval@2_55
+    21300112: RTS_medieval@2_56
+    21300114: RTS_medieval@2_57
+    21300116: RTS_medieval@2_58
+    21300118: RTS_medieval@2_59
+    21300120: RTS_medieval@2_60
+    21300122: RTS_medieval@2_61
+    21300124: RTS_medieval@2_62
+    21300126: RTS_medieval@2_63
+    21300128: RTS_medieval@2_64
+    21300130: RTS_medieval@2_65
+    21300132: RTS_medieval@2_66
+    21300134: RTS_medieval@2_67
+    21300136: RTS_medieval@2_68
+    21300138: RTS_medieval@2_69
+    21300140: RTS_medieval@2_70
+    21300142: RTS_medieval@2_71
+    21300144: RTS_medieval@2_72
+    21300146: RTS_medieval@2_73
+    21300148: RTS_medieval@2_74
+    21300150: RTS_medieval@2_75
+    21300152: RTS_medieval@2_76
+    21300154: RTS_medieval@2_77
+    21300156: RTS_medieval@2_78
+    21300158: RTS_medieval@2_79
+    21300160: RTS_medieval@2_80
+    21300162: RTS_medieval@2_81
+    21300164: RTS_medieval@2_82
+    21300166: RTS_medieval@2_83
+    21300168: RTS_medieval@2_84
+    21300170: RTS_medieval@2_85
+    21300172: RTS_medieval@2_86
+    21300174: RTS_medieval@2_87
+    21300176: RTS_medieval@2_88
+    21300178: RTS_medieval@2_89
+    21300180: RTS_medieval@2_90
+    21300182: RTS_medieval@2_91
+    21300184: RTS_medieval@2_92
+    21300186: RTS_medieval@2_93
+    21300188: RTS_medieval@2_94
+    21300190: RTS_medieval@2_95
+    21300192: RTS_medieval@2_96
+    21300194: RTS_medieval@2_97
+    21300196: RTS_medieval@2_98
+    21300198: RTS_medieval@2_99
+    21300200: RTS_medieval@2_100
+    21300202: RTS_medieval@2_101
+    21300204: RTS_medieval@2_102
+    21300206: RTS_medieval@2_103
+    21300208: RTS_medieval@2_104
+    21300210: RTS_medieval@2_105
+    21300212: RTS_medieval@2_106
+    21300214: RTS_medieval@2_107
+    21300216: RTS_medieval@2_108
+    21300218: RTS_medieval@2_109
+    21300220: RTS_medieval@2_110
+    21300222: RTS_medieval@2_111
+    21300224: RTS_medieval@2_112
+    21300226: RTS_medieval@2_113
+    21300228: RTS_medieval@2_114
+    21300230: RTS_medieval@2_115
+    21300232: RTS_medieval@2_116
+    21300234: RTS_medieval@2_117
+    21300236: RTS_medieval@2_118
+    21300238: RTS_medieval@2_119
+    21300240: RTS_medieval@2_120
+    21300242: RTS_medieval@2_121
+    21300244: RTS_medieval@2_122
+    21300246: RTS_medieval@2_123
+    21300248: RTS_medieval@2_124
+    21300250: RTS_medieval@2_125
+    21300252: RTS_medieval@2_126
+    21300254: RTS_medieval@2_127
+    21300256: RTS_medieval@2_128
+    21300258: RTS_medieval@2_129
+    21300260: RTS_medieval@2_130
+    21300262: RTS_medieval@2_131
+    21300264: RTS_medieval@2_132
+    21300266: RTS_medieval@2_133
+    21300268: RTS_medieval@2_134
+    21300270: RTS_medieval@2_135
+    21300272: RTS_medieval@2_136
+    21300274: RTS_medieval@2_137
+    21300276: RTS_medieval@2_138
+    21300278: RTS_medieval@2_139
+    21300280: RTS_medieval@2_140
+    21300282: RTS_medieval@2_141
+    21300284: RTS_medieval@2_142
+    21300286: RTS_medieval@2_143
+    21300288: RTS_medieval@2_144
+    21300290: RTS_medieval@2_145
+    21300292: RTS_medieval@2_146
+    21300294: RTS_medieval@2_147
+    21300296: RTS_medieval@2_148
+    21300298: RTS_medieval@2_149
+    21300300: RTS_medieval@2_150
+    21300302: RTS_medieval@2_151
+    21300304: RTS_medieval@2_152
+    21300306: RTS_medieval@2_153
+    21300308: RTS_medieval@2_154
+    21300310: RTS_medieval@2_155
+    21300312: RTS_medieval@2_156
+    21300314: RTS_medieval@2_157
+    21300316: RTS_medieval@2_158
+    21300318: RTS_medieval@2_159
+    21300320: RTS_medieval@2_160
+    21300322: RTS_medieval@2_161
+    21300324: RTS_medieval@2_162
+    21300326: RTS_medieval@2_163
+    21300328: RTS_medieval@2_164
+    21300330: RTS_medieval@2_165
+    21300332: RTS_medieval@2_166
+    21300334: RTS_medieval@2_167
+    21300336: RTS_medieval@2_168
+    21300338: RTS_medieval@2_169
+    21300340: RTS_medieval@2_170
+    21300342: RTS_medieval@2_171
+    21300344: RTS_medieval@2_172
+    21300346: RTS_medieval@2_173
+    21300348: RTS_medieval@2_174
+    21300350: RTS_medieval@2_175
+    21300352: RTS_medieval@2_176
+    21300354: RTS_medieval@2_177
+    21300356: RTS_medieval@2_178
+    21300358: RTS_medieval@2_179
+    21300360: RTS_medieval@2_180
+    21300362: RTS_medieval@2_181
+    21300364: RTS_medieval@2_182
+    21300366: RTS_medieval@2_183
+    21300368: RTS_medieval@2_184
+    21300370: RTS_medieval@2_185
+    21300372: RTS_medieval@2_186
+    21300374: RTS_medieval@2_187
+    21300376: RTS_medieval@2_188
+    21300378: RTS_medieval@2_189
+    21300380: RTS_medieval@2_190
+    21300382: RTS_medieval@2_191
+    21300384: RTS_medieval@2_192
+    21300386: RTS_medieval@2_193
+    21300388: RTS_medieval@2_194
+    21300390: RTS_medieval@2_195
+    21300392: RTS_medieval@2_196
+    21300394: RTS_medieval@2_197
+    21300396: RTS_medieval@2_198
+    21300398: RTS_medieval@2_199
+    21300400: RTS_medieval@2_200
+    21300402: RTS_medieval@2_201
+    21300404: RTS_medieval@2_202
+    21300406: RTS_medieval@2_203
+    21300408: RTS_medieval@2_204
+    21300410: RTS_medieval@2_205
+    21300412: RTS_medieval@2_206
+    21300414: RTS_medieval@2_207
+    21300416: RTS_medieval@2_208
+    21300418: RTS_medieval@2_209
+    21300420: RTS_medieval@2_210
+    21300422: RTS_medieval@2_211
+    21300424: RTS_medieval@2_212
+    21300426: RTS_medieval@2_213
+    21300428: RTS_medieval@2_214
+    21300430: RTS_medieval@2_215
+    21300432: RTS_medieval@2_216
+    21300434: RTS_medieval@2_217
+    21300436: RTS_medieval@2_218
+    21300438: RTS_medieval@2_219
+    21300440: RTS_medieval@2_220
+    21300442: RTS_medieval@2_221
+    21300444: RTS_medieval@2_222
+    21300446: RTS_medieval@2_223
+    21300448: RTS_medieval@2_224
+    21300450: RTS_medieval@2_225
+    21300452: RTS_medieval@2_226
+    21300454: RTS_medieval@2_227
+    21300456: RTS_medieval@2_228
+    21300458: RTS_medieval@2_229
+    21300460: RTS_medieval@2_230
+    21300462: RTS_medieval@2_231
+    21300464: RTS_medieval@2_232
+    21300466: RTS_medieval@2_233
+    21300468: RTS_medieval@2_234
+    21300470: RTS_medieval@2_235
+    21300472: RTS_medieval@2_236
+    21300474: RTS_medieval@2_237
+    21300476: RTS_medieval@2_238
+    21300478: RTS_medieval@2_239
+    21300480: RTS_medieval@2_240
+    21300482: RTS_medieval@2_241
+    21300484: RTS_medieval@2_242
+    21300486: RTS_medieval@2_243
+    21300488: RTS_medieval@2_244
+    21300490: RTS_medieval@2_245
+    21300492: RTS_medieval@2_246
+    21300494: RTS_medieval@2_247
+    21300496: RTS_medieval@2_248
+    21300498: RTS_medieval@2_249
+    21300500: RTS_medieval@2_250
+    21300502: RTS_medieval@2_251
+    21300504: RTS_medieval@2_252
+    21300506: RTS_medieval@2_253
+    21300508: RTS_medieval@2_254
+    21300510: RTS_medieval@2_255
+    21300512: RTS_medieval@2_256
+    21300514: RTS_medieval@2_257
+    21300516: RTS_medieval@2_258
+    21300518: RTS_medieval@2_259
+    21300520: RTS_medieval@2_260
+    21300522: RTS_medieval@2_261
+    21300524: RTS_medieval@2_262
+    21300526: RTS_medieval@2_263
+    21300528: RTS_medieval@2_264
+    21300530: RTS_medieval@2_265
+    21300532: RTS_medieval@2_266
+    21300534: RTS_medieval@2_267
+    21300536: RTS_medieval@2_268
+    21300538: RTS_medieval@2_269
+    21300540: RTS_medieval@2_270
+    21300542: RTS_medieval@2_271
+    21300544: RTS_medieval@2_272
+    21300546: RTS_medieval@2_273
+    21300548: RTS_medieval@2_274
+    21300550: RTS_medieval@2_275
+    21300552: RTS_medieval@2_276
+    21300554: RTS_medieval@2_277
+    21300556: RTS_medieval@2_278
+    21300558: RTS_medieval@2_279
+    21300560: RTS_medieval@2_280
+    21300562: RTS_medieval@2_281
+    21300564: RTS_medieval@2_282
+    21300566: RTS_medieval@2_283
+    21300568: RTS_medieval@2_284
+    21300570: RTS_medieval@2_285
+    21300572: RTS_medieval@2_286
+    21300574: RTS_medieval@2_287
+    21300576: RTS_medieval@2_288
+    21300578: RTS_medieval@2_289
+    21300580: RTS_medieval@2_290
+    21300582: RTS_medieval@2_291
+    21300584: RTS_medieval@2_292
+    21300586: RTS_medieval@2_293
+    21300588: RTS_medieval@2_294
+    21300590: RTS_medieval@2_295
+    21300592: RTS_medieval@2_296
+    21300594: RTS_medieval@2_297
+    21300596: RTS_medieval@2_298
+    21300598: RTS_medieval@2_299
+    21300600: RTS_medieval@2_300
+    21300602: RTS_medieval@2_301
+    21300604: RTS_medieval@2_302
+    21300606: RTS_medieval@2_303
+    21300608: RTS_medieval@2_304
+    21300610: RTS_medieval@2_305
+    21300612: RTS_medieval@2_306
+    21300614: RTS_medieval@2_307
+    21300616: RTS_medieval@2_308
+    21300618: RTS_medieval@2_309
+    21300620: RTS_medieval@2_310
+    21300622: RTS_medieval@2_311
+    21300624: RTS_medieval@2_312
+    21300626: RTS_medieval@2_313
+    21300628: RTS_medieval@2_314
+    21300630: RTS_medieval@2_315
+    21300632: RTS_medieval@2_316
+    21300634: RTS_medieval@2_317
+    21300636: RTS_medieval@2_318
+    21300638: RTS_medieval@2_319
+    21300640: RTS_medieval@2_320
+    21300642: RTS_medieval@2_321
+    21300644: RTS_medieval@2_322
+    21300646: RTS_medieval@2_323
+    21300648: RTS_medieval@2_324
+    21300650: RTS_medieval@2_325
+    21300652: RTS_medieval@2_326
+    21300654: RTS_medieval@2_327
+    21300656: RTS_medieval@2_328
+    21300658: RTS_medieval@2_329
+    21300660: RTS_medieval@2_330
+    21300662: RTS_medieval@2_331
+    21300664: RTS_medieval@2_332
+    21300666: RTS_medieval@2_333
+    21300668: RTS_medieval@2_334
+    21300670: RTS_medieval@2_335
+    21300672: RTS_medieval@2_336
+    21300674: RTS_medieval@2_337
+    21300676: RTS_medieval@2_338
+    21300678: RTS_medieval@2_339
+    21300680: RTS_medieval@2_340
+    21300682: RTS_medieval@2_341
+    21300684: RTS_medieval@2_342
+    21300686: RTS_medieval@2_343
+    21300688: RTS_medieval@2_344
+    21300690: RTS_medieval@2_345
+    21300692: RTS_medieval@2_346
+    21300694: RTS_medieval@2_347
+    21300696: RTS_medieval@2_348
+    21300698: RTS_medieval@2_349
+    21300700: RTS_medieval@2_350
+    21300702: RTS_medieval@2_351
+    21300704: RTS_medieval@2_352
+    21300706: RTS_medieval@2_353
+    21300708: RTS_medieval@2_354
+    21300710: RTS_medieval@2_355
+    21300712: RTS_medieval@2_356
+    21300714: RTS_medieval@2_357
+    21300716: RTS_medieval@2_358
+    21300718: RTS_medieval@2_359
+    21300720: RTS_medieval@2_360
+    21300722: RTS_medieval@2_361
+    21300724: RTS_medieval@2_362
+    21300726: RTS_medieval@2_363
+    21300728: RTS_medieval@2_364
+    21300730: RTS_medieval@2_365
+    21300732: RTS_medieval@2_366
+    21300734: RTS_medieval@2_367
+    21300736: RTS_medieval@2_368
+    21300738: RTS_medieval@2_369
+    21300740: RTS_medieval@2_370
+    21300742: RTS_medieval@2_371
+    21300744: RTS_medieval@2_372
+    21300746: RTS_medieval@2_373
+    21300748: RTS_medieval@2_374
+    21300750: RTS_medieval@2_375
+    21300752: RTS_medieval@2_376
+    21300754: RTS_medieval@2_377
+    21300756: RTS_medieval@2_378
+    21300758: RTS_medieval@2_379
+    21300760: RTS_medieval@2_380
+    21300762: RTS_medieval@2_381
+    21300764: RTS_medieval@2_382
+    21300766: RTS_medieval@2_383
+    21300768: RTS_medieval@2_384
+    21300770: RTS_medieval@2_385
+    21300772: RTS_medieval@2_386
+    21300774: RTS_medieval@2_387
+    21300776: RTS_medieval@2_388
+    21300778: RTS_medieval@2_389
+    21300780: RTS_medieval@2_390
+    21300782: RTS_medieval@2_391
+    21300784: RTS_medieval@2_392
+    21300786: RTS_medieval@2_393
+    21300788: RTS_medieval@2_394
+    21300790: RTS_medieval@2_395
+    21300792: RTS_medieval@2_396
+    21300794: RTS_medieval@2_397
+    21300796: RTS_medieval@2_398
+    21300798: RTS_medieval@2_399
+    21300800: RTS_medieval@2_400
+    21300802: RTS_medieval@2_401
+    21300804: RTS_medieval@2_402
+    21300806: RTS_medieval@2_403
+    21300808: RTS_medieval@2_404
+    21300810: RTS_medieval@2_405
+    21300812: RTS_medieval@2_406
+    21300814: RTS_medieval@2_407
+    21300816: RTS_medieval@2_408
+    21300818: RTS_medieval@2_409
+    21300820: RTS_medieval@2_410
+    21300822: RTS_medieval@2_411
+    21300824: RTS_medieval@2_412
+    21300826: RTS_medieval@2_413
+    21300828: RTS_medieval@2_414
+    21300830: RTS_medieval@2_415
+    21300832: RTS_medieval@2_416
+    21300834: RTS_medieval@2_417
+    21300836: RTS_medieval@2_418
+    21300838: RTS_medieval@2_419
+    21300840: RTS_medieval@2_420
+    21300842: RTS_medieval@2_421
+    21300844: RTS_medieval@2_422
+    21300846: RTS_medieval@2_423
+    21300848: RTS_medieval@2_424
+    21300850: RTS_medieval@2_425
+    21300852: RTS_medieval@2_426
+    21300854: RTS_medieval@2_427
+    21300856: RTS_medieval@2_428
+    21300858: RTS_medieval@2_429
+    21300860: RTS_medieval@2_430
+    21300862: RTS_medieval@2_431
+    21300864: RTS_medieval@2_432
+    21300866: RTS_medieval@2_433
+    21300868: RTS_medieval@2_434
+    21300870: RTS_medieval@2_435
+    21300872: RTS_medieval@2_436
+    21300874: RTS_medieval@2_437
+    21300876: RTS_medieval@2_438
+    21300878: RTS_medieval@2_439
+    21300880: RTS_medieval@2_440
+    21300882: RTS_medieval@2_441
+    21300884: RTS_medieval@2_442
+    21300886: RTS_medieval@2_443
+    21300888: RTS_medieval@2_444
+    21300890: RTS_medieval@2_445
+    21300892: RTS_medieval@2_446
+    21300894: RTS_medieval@2_447
+    21300896: RTS_medieval@2_448
+    21300898: RTS_medieval@2_449
+    21300900: RTS_medieval@2_450
+    21300902: RTS_medieval@2_451
+    21300904: RTS_medieval@2_452
+    21300906: RTS_medieval@2_453
+    21300908: RTS_medieval@2_454
+    21300910: RTS_medieval@2_455
+    21300912: RTS_medieval@2_456
+    21300914: RTS_medieval@2_457
+    21300916: RTS_medieval@2_458
+    21300918: RTS_medieval@2_459
+    21300920: RTS_medieval@2_460
+    21300922: RTS_medieval@2_461
+    21300924: RTS_medieval@2_462
+    21300926: RTS_medieval@2_463
+    21300928: RTS_medieval@2_464
+    21300930: RTS_medieval@2_465
+    21300932: RTS_medieval@2_466
+    21300934: RTS_medieval@2_467
+    21300936: RTS_medieval@2_468
+    21300938: RTS_medieval@2_469
+    21300940: RTS_medieval@2_470
+    21300942: RTS_medieval@2_471
+    21300944: RTS_medieval@2_472
+    21300946: RTS_medieval@2_473
+    21300948: RTS_medieval@2_474
+    21300950: RTS_medieval@2_475
+    21300952: RTS_medieval@2_476
+    21300954: RTS_medieval@2_477
+    21300956: RTS_medieval@2_478
+    21300958: RTS_medieval@2_479
+    21300960: RTS_medieval@2_480
+    21300962: RTS_medieval@2_481
+    21300964: RTS_medieval@2_482
+    21300966: RTS_medieval@2_483
+    21300968: RTS_medieval@2_484
+    21300970: RTS_medieval@2_485
+    21300972: RTS_medieval@2_486
+    21300974: RTS_medieval@2_487
+    21300976: RTS_medieval@2_488
+    21300978: RTS_medieval@2_489
+    21300980: RTS_medieval@2_490
+    21300982: RTS_medieval@2_491
+    21300984: RTS_medieval@2_492
+    21300986: RTS_medieval@2_493
+    21300988: RTS_medieval@2_494
+    21300990: RTS_medieval@2_495
+    21300992: RTS_medieval@2_496
+    21300994: RTS_medieval@2_497
+    21300996: RTS_medieval@2_498
+    21300998: RTS_medieval@2_499
+    21301000: RTS_medieval@2_500
+    21301002: RTS_medieval@2_501
+    21301004: RTS_medieval@2_502
+    21301006: RTS_medieval@2_503
+    21301008: RTS_medieval@2_504
+    21301010: RTS_medieval@2_505
+    21301012: RTS_medieval@2_506
+    21301014: RTS_medieval@2_507
+    21301016: RTS_medieval@2_508
+    21301018: RTS_medieval@2_509
+    21301020: RTS_medieval@2_510
+    21301022: RTS_medieval@2_511
+    21301024: RTS_medieval@2_512
+    21301026: RTS_medieval@2_513
+    21301028: RTS_medieval@2_514
+    21301030: RTS_medieval@2_515
+    21301032: RTS_medieval@2_516
+    21301034: RTS_medieval@2_517
+    21301036: RTS_medieval@2_518
+    21301038: RTS_medieval@2_519
+    21301040: RTS_medieval@2_520
+    21301042: RTS_medieval@2_521
+    21301044: RTS_medieval@2_522
+    21301046: RTS_medieval@2_523
+    21301048: RTS_medieval@2_524
+    21301050: RTS_medieval@2_525
+    21301052: RTS_medieval@2_526
+    21301054: RTS_medieval@2_527
+    21301056: RTS_medieval@2_528
+    21301058: RTS_medieval@2_529
+    21301060: RTS_medieval@2_530
+    21301062: RTS_medieval@2_531
+    21301064: RTS_medieval@2_532
+    21301066: RTS_medieval@2_533
+    21301068: RTS_medieval@2_534
+    21301070: RTS_medieval@2_535
+    21301072: RTS_medieval@2_536
+    21301074: RTS_medieval@2_537
+    21301076: RTS_medieval@2_538
+    21301078: RTS_medieval@2_539
+    21301080: RTS_medieval@2_540
+    21301082: RTS_medieval@2_541
+    21301084: RTS_medieval@2_542
+    21301086: RTS_medieval@2_543
+    21301088: RTS_medieval@2_544
+    21301090: RTS_medieval@2_545
+    21301092: RTS_medieval@2_546
+    21301094: RTS_medieval@2_547
+    21301096: RTS_medieval@2_548
+    21301098: RTS_medieval@2_549
+    21301100: RTS_medieval@2_550
+    21301102: RTS_medieval@2_551
+    21301104: RTS_medieval@2_552
+    21301106: RTS_medieval@2_553
+    21301108: RTS_medieval@2_554
+    21301110: RTS_medieval@2_555
+    21301112: RTS_medieval@2_556
+    21301114: RTS_medieval@2_557
+    21301116: RTS_medieval@2_558
+    21301118: RTS_medieval@2_559
+    21301120: RTS_medieval@2_560
+    21301122: RTS_medieval@2_561
+    21301124: RTS_medieval@2_562
+    21301126: RTS_medieval@2_563
+    21301128: RTS_medieval@2_564
+    21301130: RTS_medieval@2_565
+    21301132: RTS_medieval@2_566
+    21301134: RTS_medieval@2_567
+    21301136: RTS_medieval@2_568
+    21301138: RTS_medieval@2_569
+    21301140: RTS_medieval@2_570
+    21301142: RTS_medieval@2_571
+    21301144: RTS_medieval@2_572
+    21301146: RTS_medieval@2_573
+    21301148: RTS_medieval@2_574
+    21301150: RTS_medieval@2_575
+    21301152: RTS_medieval@2_576
+    21301154: RTS_medieval@2_577
+    21301156: RTS_medieval@2_578
+    21301158: RTS_medieval@2_579
+    21301160: RTS_medieval@2_580
+    21301162: RTS_medieval@2_581
+    21301164: RTS_medieval@2_582
+    21301166: RTS_medieval@2_583
+    21301168: RTS_medieval@2_584
+    21301170: RTS_medieval@2_585
+    21301172: RTS_medieval@2_586
+    21301174: RTS_medieval@2_587
+    21301176: RTS_medieval@2_588
+    21301178: RTS_medieval@2_589
+    21301180: RTS_medieval@2_590
+    21301182: RTS_medieval@2_591
+    21301184: RTS_medieval@2_592
+    21301186: RTS_medieval@2_593
+    21301188: RTS_medieval@2_594
+    21301190: RTS_medieval@2_595
+    21301192: RTS_medieval@2_596
+    21301194: RTS_medieval@2_597
+    21301196: RTS_medieval@2_598
+    21301198: RTS_medieval@2_599
+    21301200: RTS_medieval@2_600
+    21301202: RTS_medieval@2_601
+    21301204: RTS_medieval@2_602
+    21301206: RTS_medieval@2_603
+    21301208: RTS_medieval@2_604
+    21301210: RTS_medieval@2_605
+    21301212: RTS_medieval@2_606
+    21301214: RTS_medieval@2_607
+    21301216: RTS_medieval@2_608
+    21301218: RTS_medieval@2_609
+    21301220: RTS_medieval@2_610
+    21301222: RTS_medieval@2_611
+    21301224: RTS_medieval@2_612
+    21301226: RTS_medieval@2_613
+    21301228: RTS_medieval@2_614
+    21301230: RTS_medieval@2_615
+    21301232: RTS_medieval@2_616
+    21301234: RTS_medieval@2_617
+    21301236: RTS_medieval@2_618
+    21301238: RTS_medieval@2_619
+    21301240: RTS_medieval@2_620
+    21301242: RTS_medieval@2_621
+    21301244: RTS_medieval@2_622
+    21301246: RTS_medieval@2_623
+    21301248: RTS_medieval@2_624
+    21301250: RTS_medieval@2_625
+    21301252: RTS_medieval@2_626
+    21301254: RTS_medieval@2_627
+    21301256: RTS_medieval@2_628
+    21301258: RTS_medieval@2_629
+    21301260: RTS_medieval@2_630
+    21301262: RTS_medieval@2_631
+    21301264: RTS_medieval@2_632
+    21301266: RTS_medieval@2_633
+    21301268: RTS_medieval@2_634
+    21301270: RTS_medieval@2_635
+    21301272: RTS_medieval@2_636
+    21301274: RTS_medieval@2_637
+    21301276: RTS_medieval@2_638
+    21301278: RTS_medieval@2_639
+    21301280: RTS_medieval@2_640
+    21301282: RTS_medieval@2_641
+    21301284: RTS_medieval@2_642
+    21301286: RTS_medieval@2_643
+    21301288: RTS_medieval@2_644
+    21301290: RTS_medieval@2_645
+    21301292: RTS_medieval@2_646
+    21301294: RTS_medieval@2_647
+    21301296: RTS_medieval@2_648
+    21301298: RTS_medieval@2_649
+    21301300: RTS_medieval@2_650
+    21301302: RTS_medieval@2_651
+    21301304: RTS_medieval@2_652
+    21301306: RTS_medieval@2_653
+    21301308: RTS_medieval@2_654
+    21301310: RTS_medieval@2_655
+    21301312: RTS_medieval@2_656
+    21301314: RTS_medieval@2_657
+    21301316: RTS_medieval@2_658
+    21301318: RTS_medieval@2_659
+    21301320: RTS_medieval@2_660
+    21301322: RTS_medieval@2_661
+    21301324: RTS_medieval@2_662
+    21301326: RTS_medieval@2_663
+    21301328: RTS_medieval@2_664
+    21301330: RTS_medieval@2_665
+    21301332: RTS_medieval@2_666
+    21301334: RTS_medieval@2_667
+    21301336: RTS_medieval@2_668
+    21301338: RTS_medieval@2_669
+    21301340: RTS_medieval@2_670
+    21301342: RTS_medieval@2_671
+    21301344: RTS_medieval@2_672
+    21301346: RTS_medieval@2_673
+    21301348: RTS_medieval@2_674
+    21301350: RTS_medieval@2_675
+    21301352: RTS_medieval@2_676
+    21301354: RTS_medieval@2_677
+    21301356: RTS_medieval@2_678
+    21301358: RTS_medieval@2_679
+    21301360: RTS_medieval@2_680
+    21301362: RTS_medieval@2_681
+    21301364: RTS_medieval@2_682
+    21301366: RTS_medieval@2_683
+    21301368: RTS_medieval@2_684
+    21301370: RTS_medieval@2_685
+    21301372: RTS_medieval@2_686
+    21301374: RTS_medieval@2_687
+    21301376: RTS_medieval@2_688
+    21301378: RTS_medieval@2_689
+    21301380: RTS_medieval@2_690
+    21301382: RTS_medieval@2_691
+    21301384: RTS_medieval@2_692
+    21301386: RTS_medieval@2_693
+    21301388: RTS_medieval@2_694
+    21301390: RTS_medieval@2_695
+    21301392: RTS_medieval@2_696
+    21301394: RTS_medieval@2_697
+    21301396: RTS_medieval@2_698
+    21301398: RTS_medieval@2_699
+    21301400: RTS_medieval@2_700
+    21301402: RTS_medieval@2_701
+    21301404: RTS_medieval@2_702
+    21301406: RTS_medieval@2_703
+    21301408: RTS_medieval@2_704
+    21301410: RTS_medieval@2_705
+    21301412: RTS_medieval@2_706
+    21301414: RTS_medieval@2_707
+    21301416: RTS_medieval@2_708
+    21301418: RTS_medieval@2_709
+    21301420: RTS_medieval@2_710
+    21301422: RTS_medieval@2_711
+    21301424: RTS_medieval@2_712
+    21301426: RTS_medieval@2_713
+    21301428: RTS_medieval@2_714
+    21301430: RTS_medieval@2_715
+    21301432: RTS_medieval@2_716
+    21301434: RTS_medieval@2_717
+    21301436: RTS_medieval@2_718
+    21301438: RTS_medieval@2_719
+    21301440: RTS_medieval@2_720
+    21301442: RTS_medieval@2_721
+    21301444: RTS_medieval@2_722
+    21301446: RTS_medieval@2_723
+    21301448: RTS_medieval@2_724
+    21301450: RTS_medieval@2_725
+    21301452: RTS_medieval@2_726
+    21301454: RTS_medieval@2_727
+    21301456: RTS_medieval@2_728
+    21301458: RTS_medieval@2_729
+    21301460: RTS_medieval@2_730
+    21301462: RTS_medieval@2_731
+    21301464: RTS_medieval@2_732
+    21301466: RTS_medieval@2_733
+    21301468: RTS_medieval@2_734
+    21301470: RTS_medieval@2_735
+    21301472: RTS_medieval@2_736
+    21301474: RTS_medieval@2_737
+    21301476: RTS_medieval@2_738
+    21301478: RTS_medieval@2_739
+    21301480: RTS_medieval@2_740
+    21301482: RTS_medieval@2_741
+    21301484: RTS_medieval@2_742
+    21301486: RTS_medieval@2_743
+    21301488: RTS_medieval@2_744
+    21301490: RTS_medieval@2_745
+    21301492: RTS_medieval@2_746
+    21301494: RTS_medieval@2_747
+    21301496: RTS_medieval@2_748
+    21301498: RTS_medieval@2_749
+    21301500: RTS_medieval@2_750
+    21301502: RTS_medieval@2_751
+    21301504: RTS_medieval@2_752
+    21301506: RTS_medieval@2_753
+    21301508: RTS_medieval@2_754
+    21301510: RTS_medieval@2_755
+    21301512: RTS_medieval@2_756
+    21301514: RTS_medieval@2_757
+    21301516: RTS_medieval@2_758
+    21301518: RTS_medieval@2_759
+    21301520: RTS_medieval@2_760
+    21301522: RTS_medieval@2_761
+    21301524: RTS_medieval@2_762
+    21301526: RTS_medieval@2_763
+    21301528: RTS_medieval@2_764
+    21301530: RTS_medieval@2_765
+    21301532: RTS_medieval@2_766
+    21301534: RTS_medieval@2_767
+    21301536: RTS_medieval@2_768
+    21301538: RTS_medieval@2_769
+    21301540: RTS_medieval@2_770
+    21301542: RTS_medieval@2_771
+    21301544: RTS_medieval@2_772
+    21301546: RTS_medieval@2_773
+    21301548: RTS_medieval@2_774
+    21301550: RTS_medieval@2_775
+    21301552: RTS_medieval@2_776
+    21301554: RTS_medieval@2_777
+    21301556: RTS_medieval@2_778
+    21301558: RTS_medieval@2_779
+    21301560: RTS_medieval@2_780
+    21301562: RTS_medieval@2_781
+    21301564: RTS_medieval@2_782
+    21301566: RTS_medieval@2_783
+    21301568: RTS_medieval@2_784
+    21301570: RTS_medieval@2_785
+    21301572: RTS_medieval@2_786
+    21301574: RTS_medieval@2_787
+    21301576: RTS_medieval@2_788
+    21301578: RTS_medieval@2_789
+    21301580: RTS_medieval@2_790
+    21301582: RTS_medieval@2_791
+    21301584: RTS_medieval@2_792
+    21301586: RTS_medieval@2_793
+    21301588: RTS_medieval@2_794
+    21301590: RTS_medieval@2_795
+    21301592: RTS_medieval@2_796
+    21301594: RTS_medieval@2_797
+    21301596: RTS_medieval@2_798
+    21301598: RTS_medieval@2_799
+    21301600: RTS_medieval@2_800
+    21301602: RTS_medieval@2_801
+    21301604: RTS_medieval@2_802
+    21301606: RTS_medieval@2_803
+    21301608: RTS_medieval@2_804
+    21301610: RTS_medieval@2_805
+    21301612: RTS_medieval@2_806
+    21301614: RTS_medieval@2_807
+    21301616: RTS_medieval@2_808
+    21301618: RTS_medieval@2_809
+    21301620: RTS_medieval@2_810
+    21301622: RTS_medieval@2_811
+    21301624: RTS_medieval@2_812
+    21301626: RTS_medieval@2_813
+    21301628: RTS_medieval@2_814
+    21301630: RTS_medieval@2_815
+    21301632: RTS_medieval@2_816
+    21301634: RTS_medieval@2_817
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 64
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RTS_medieval@2_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1216
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1216
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_2
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1216
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_3
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1216
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_4
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1216
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_5
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1216
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_6
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1216
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_7
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1216
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_8
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1216
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_9
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1216
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_10
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 1216
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_11
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 1216
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_12
+      rect:
+        serializedVersion: 2
+        x: 2368
+        y: 1216
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_13
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1216
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_14
+      rect:
+        serializedVersion: 2
+        x: 2752
+        y: 1216
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_15
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 1216
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_16
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 1216
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_17
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 1216
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_19
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_20
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_21
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_22
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_23
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_24
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_25
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_26
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_27
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_28
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_29
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_30
+      rect:
+        serializedVersion: 2
+        x: 2368
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_31
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_32
+      rect:
+        serializedVersion: 2
+        x: 2752
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_33
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_34
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_35
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 832
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_37
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 832
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_38
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 832
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_39
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 832
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_40
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 832
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_41
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 832
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_42
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 832
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_43
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 832
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_44
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 832
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_45
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 832
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_46
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 832
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_47
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 832
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_48
+      rect:
+        serializedVersion: 2
+        x: 2368
+        y: 832
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_49
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 832
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_50
+      rect:
+        serializedVersion: 2
+        x: 2752
+        y: 832
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_51
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 832
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_52
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 832
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_53
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 832
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_54
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_55
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_56
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_57
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_58
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_59
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_60
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_61
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_62
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_63
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_64
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_65
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_66
+      rect:
+        serializedVersion: 2
+        x: 2368
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_67
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_68
+      rect:
+        serializedVersion: 2
+        x: 2752
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_69
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_70
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_71
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_72
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_73
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_74
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_75
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 448
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_76
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 448
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_77
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 448
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_78
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 448
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_79
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 448
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_80
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 448
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_81
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 448
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_82
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 448
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_83
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 448
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_84
+      rect:
+        serializedVersion: 2
+        x: 2368
+        y: 448
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_85
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 448
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_86
+      rect:
+        serializedVersion: 2
+        x: 2752
+        y: 448
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_87
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 448
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_88
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 448
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_89
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 448
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_90
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_91
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_92
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_93
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_94
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_95
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_96
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_97
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_98
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_99
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_100
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_101
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_102
+      rect:
+        serializedVersion: 2
+        x: 2368
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_103
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_104
+      rect:
+        serializedVersion: 2
+        x: 2752
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_105
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_106
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_107
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_108
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_109
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_110
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_111
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_112
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 64
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_113
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 64
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_114
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 64
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_115
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 64
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_116
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 64
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_117
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 64
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_118
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 64
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_119
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 64
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_120
+      rect:
+        serializedVersion: 2
+        x: 2368
+        y: 64
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_121
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 64
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_122
+      rect:
+        serializedVersion: 2
+        x: 2752
+        y: 64
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_123
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 64
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_124
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 64
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RTS_medieval@2_125
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 64
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
