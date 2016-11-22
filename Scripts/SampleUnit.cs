@@ -4,6 +4,7 @@ public class SampleUnit : Unit
 {
     public Color LeadingColor;
     public SpriteRenderer highlight;
+    public GameObject bloodParticles;
 
     public override void Initialize()
     {
@@ -18,11 +19,12 @@ public class SampleUnit : Unit
     }
 
     public override void MarkAsDefending(Unit other)
-    {       
+    {
     }
 
     public override void MarkAsDestroyed()
-    {      
+    {
+        GameObject bloodEffect = (GameObject)Instantiate(bloodParticles, transform.position, Quaternion.identity);
     }
 
     public override void MarkAsFinished()
